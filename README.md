@@ -8,7 +8,7 @@ Telegram Voice-Chat Bot To Play Music With Pytgcalls From Various Sources In You
 ## Support
 
 Only For Heroku:
-[Join Group for Any Help](https://t.me/yt_DarkHackerX_chat)
+[Join Group for Any Help](https://t.me/SWXChatt)
 
 For other OS Check the:
 [Main Repository](https://github.com/thehamkercat/Telegram_VC_Bot)
